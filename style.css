@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300;600;800&display=swap");
+body {
+  margin-left: 350px;
+  position: relative;
+  width: 1440px;
+  height: 1000px;
+  background: url("https://scontent.fpet4-1.fna.fbcdn.net/v/t1.6435-9/p180x540/244640327_104079445386408_24391303992846157_n.jpg?_nc_cat=105&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=2bf9gGrMu48AX__4Ll5&_nc_ht=scontent.fpet4-1.fna&oh=178b2907234c4fab173f60e41e64abb3&oe=6182CE69");
+  font-family: "Gemunu Libre", sans-serif;
+}
+.cabeçalho {
+  color: #1c1c1c;
+  background: #b4c476;
+  margin: 64px;
+  box-shadow: 6px 6px 6px #b4df65;
+  padding: 20px;
+}
+.imagemOmnia {
+  max-height: 120px;
+  max-width: 260px;
+  border-radius: 460px;
+  box-shadow: 2px 2px 6px #b4df65;
+}
+.opçoesCabeçalho {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+.h3 {
+  margin-left: 20px;
+  font-weight: 600;
+  margin-top: 46px;
+  display: flex;
+  flex-direction: row;
+}
+.post {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+.corpoDoSite {
+  background: #b4c476;
+  box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+  margin-top: 18px;
+  box-shadow: 6px 6px 6px #b4df65;
+}
+.projetos-item {
+  list-style-type: none;
+  margin-left: 24px;
+  font-weight: 600;
+  font-size: 26px;
+}
+.titulosPost {
+  font-weight: 800;
+  font-size: 36px;
+}
+.imagemprodutos {
+  max-height: 500px;
+  max-width: 1500px;
+  margin-left: 1px;
+}
